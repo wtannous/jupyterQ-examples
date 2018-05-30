@@ -7,4 +7,5 @@ I have implemented the following examples:
 3) Solving a Multi-armed bandit problem, choosing the best advertisement - Reinforcement Learning (Dataset from SuperDataScience)
       
       a) Upper Confidence Bound Algorithm
+      
       b) Thompson Sampling
