@@ -2,4 +2,4 @@
 Examples of use cases for jupyterQ to implement of python libraries within q, with the use of embedPy.
 
 I have implemented the following examples:
-1) K-Means & Hierarchical Clustering (sci-kit learn)
+1) K-Means & Hierarchical Clustering (sci-kit learn) (Dataset from SuperDataScience -https://www.superdatascience.com/machine-learning/)
